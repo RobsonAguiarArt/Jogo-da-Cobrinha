@@ -1,0 +1,15 @@
+body{
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1d1d1d;
+  color: rgba(222, 555, 251, .50);
+  text-transform: uppercase;
+
+}
+canvas{
+  border: 2px solid #000;
+}
